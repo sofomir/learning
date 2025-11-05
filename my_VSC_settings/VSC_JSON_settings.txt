@@ -1,0 +1,54 @@
+{
+	"workbench.colorTheme": "Default Dark+",
+	"files.autoSave": "afterDelay",
+	"git.autofetch": true,
+	"editor.renderWhitespace": "all",
+	"git.enableSmartCommit": true,
+	"editor.unicodeHighlight.ambiguousCharacters": false,
+	"editor.unicodeHighlight.invisibleCharacters": false,
+	"editor.unicodeHighlight.nonBasicASCII": false,
+	"scss.lint.hexColorLength": "ignore",
+	"scss.lint.argumentsInColorFunction": "ignore",
+	"less.lint.hexColorLength": "ignore",
+	"task.problemMatchers.neverPrompt": true,
+	"javascript.validate.enable": true,
+	"editor.formatOnSave": true,
+	"breadcrumbs.enabled": false,
+	"editor.linkedEditing": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"liveServer.settings.donotShowInfoMsg": true,
+	"diffEditor.wordWrap": "on",
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"emmet.syntaxProfiles": {
+		"html": {
+			"inline_break": 2
+		}
+	},
+	"emmet.variables": {
+		"lang": "pl"
+	},
+	"editor.cursorStyle": "line-thin",
+	"git.confirmSync": false,
+	"javascript.inlayHints.enumMemberValues.enabled": true,
+	"prettier.singleQuote": true,
+	"prettier.jsxSingleQuote": true,
+	"prettier.semi": false,
+	"prettier.useTabs": true,
+	"redhat.telemetry.enabled": true,
+	"liveSassCompile.settings.watchOnLaunch": true,
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "expanded",
+			"extensionName": ".css",
+			"savePath": "~/../css"
+		}
+	],
+	"update.showReleaseNotes": false,
+	"html.format.wrapLineLength": 0, // 0 means disabled
+	// prettier.printWidth - length of a line for all files
+	"prettier.printWidth": 500,
+	"editor.wordWrap": "on",
+	"github.copilot.nextEditSuggestions.enabled": false,
+}
