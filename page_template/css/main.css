@@ -1,6 +1,4 @@
-*,
-*::after,
-*::before {
+* {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -35,22 +33,16 @@ h6 {
   font-size: 2rem;
 }
 
+p {
+  font-size: 1.8rem;
+}
+
 a {
   text-decoration: none;
-  color: black;
 }
 
 button {
   cursor: pointer;
-}
-
-textarea {
-  resize: vertical;
-}
-
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
 }
 
 ul {
@@ -75,5 +67,8 @@ ul {
   }
   h6 {
     font-size: 1.8rem;
+  }
+  p {
+    font-size: 1.6rem;
   }
 }/*# sourceMappingURL=main.css.map */
