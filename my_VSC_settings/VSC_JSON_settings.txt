@@ -33,6 +33,7 @@
 	"prettier.jsxSingleQuote": true,
 	"prettier.semi": false,
 	"prettier.useTabs": true,
+	"prettier.bracketSameLine": true,
 	"redhat.telemetry.enabled": true,
 	"liveSassCompile.settings.watchOnLaunch": true,
 	"liveSassCompile.settings.formats": [
