@@ -17,3 +17,5 @@ Additional VSC settings:
     - 'Prettier: Bracket Same Line' set up to ON
 	- 'Editor > Sticky Scroll: Enabled' set up to ON
 	- 'Prettier: Semi' set up to OFF
+    TEST
+    
